@@ -1,2 +1,2 @@
-# Galen-Appium-Emulator-Device
-Test Emulator Device
+# Real-Mobile-Appium-JUnit
+Test Real Mobile Device Junit
